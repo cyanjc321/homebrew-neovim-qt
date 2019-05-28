@@ -25,4 +25,3 @@ class NeovimQt < Formula
         end
     end
 end
-__END__
