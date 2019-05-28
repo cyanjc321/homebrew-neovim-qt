@@ -42,11 +42,11 @@ index f4f4754..dd4d38a 100644
 --- a/cmake/MacOSXBundleInfo.plist.in
 +++ b/cmake/MacOSXBundleInfo.plist.in
 @@ -5,7 +5,7 @@
-<key>CFBundleDevelopmentRegion</key>
-<string>English</string>
-<key>CFBundleExecutable</key>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleExecutable</key>
 -	<string>nvim-qt</string>
 +	<string>nvim-qt-runner.sh</string>
-<key>CFBundleDisplayName</key>
-<string>Neovim</string>
-<key>CFBundleGetInfoString</key>
+    <key>CFBundleDisplayName</key>
+    <string>Neovim</string>
+    <key>CFBundleGetInfoString</key>
