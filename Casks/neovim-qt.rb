@@ -1,8 +1,8 @@
 class NeovimQt < Formula
     desc "Neovim client library and GUI, in Qt5"
     homepage "https://github.com/equalsraf/neovim-qt"
-    url "https://github.com/equalsraf/neovim-qt/archive/v0.2.12.tar.gz"
-    sha256 "f88a35683f2897d766bfd617c2bb9277e5e267a4b9c509807cbafa5cfe354cf6"
+    url "https://github.com/equalsraf/neovim-qt/releases/download/v0.2.16.1/neovim-qt.zip"
+    sha256 "ddb4492db03da407703fb0ab271c4eb060250d1a7d71200e2b3b981cb0de59de"
 
     head "https://github.com/equalsraf/neovim-qt"
 
